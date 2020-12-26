@@ -8,9 +8,12 @@ metadata:
   namespace: "Turkcell"
 annotations:
   introduction: >
-    "Hello there! !'m the technical product owner of PaaS services at Turkcell (leading telco and technology services provider based in Turkey). I lead the transformation of brown/green field applications to Red Hat OpenShift and responsible for GPU-powered AI/ML platforms hosted on container platforms. I also love coding and trying to master on Go in order to make my ideas related with cloud-native landscape come true. 
+    "Hello there! !'m the technical product owner of PaaS services at Turkcell (leading telco and technology services provider based in Turkey).
+    I lead the transformation of brown/green field applications to Red Hat OpenShift and responsible for GPU-powered AI/ML platforms hosted on 
+    container platforms. I also love coding and trying to master on Go in order to make my ideas related with cloud-native landscape come true. 
 
-    Generally speaking, I've professional experience as a system engineer/architect since 2005. My core competencies include private cloud environments, cloud native technologies, devops, containerization, virtualization, automation, server and storage infrastructures."
+    Generally speaking, I've professional experience as a system engineer/architect since 2005. My core competencies include private cloud 
+    environments, cloud native technologies, devops, containerization, virtualization, automation, server and storage infrastructures."
 spec:
   pronouns: "He|Him"
   technologies: 
